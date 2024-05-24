@@ -776,7 +776,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Engineer's Workshop",
 "author": "System AI. 1st Edition",
 "content": "The Engineer's Workshop is essential for crafting mechanical devices, traps, and constructs. You'll need Tinker's Tools and proficiency in Crafting (Mechanics) to make the most of this station.\n\nExamples:\n- Craft clockwork sentries\n- Rebuild broken gear systems\n- Design and construct sprawks",
@@ -792,7 +792,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Sapper's Workbench",
 "author": "System AI. 1st Edition",
 "content": "The Sapper's Workbench is your go-to for crafting explosives, alchemical weapons, and mines. You'll need a Demolition Kit and proficiency in Crafting (Alchemy) to use this station effectively.\n\nExamples:\n- Craft explosive charges\n- Brew acid flasks\n- Create smoke bombs",
@@ -808,7 +808,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Alchemist's Lab",
 "author": "System AI. 1st Edition",
 "content": "The Alchemist's Lab is perfect for brewing potions, elixirs, and poisons. An Alchemist's Kit and proficiency in Crafting (Alchemy) are required to utilize this station.\n\nExamples:\n- Brew healing potions\n- Craft antidotes\n- Distill deadly poisons",
@@ -824,7 +824,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Scrivener's Desk",
 "author": "System AI. 1st Edition",
 "content": "The Scrivener's Desk is used for scribing scrolls, runeworking, and encoding data. You'll need Calligrapher's Tools and proficiency in Crafting (Calligraphy) to work at this station.\n\nExamples:\n- Inscribe spell scrolls\n- Encode research notes\n- Craft glyph traps",
@@ -840,7 +840,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Inscriber's Atelier",
 "author": "System AI. 1st Edition",
 "content": "The Inscriber's Atelier is where you etch runes, emblems, and metaphysical inscriptions. Inscriber's Tools and proficiency in Crafting (Inscribing) are necessary for this station.\n\nExamples:\n- Etch armor runes\n- Craft inscribed weapons\n- Enchant tattoos",
@@ -856,7 +856,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Enchanter's Altar",
 "author": "System AI. 1st Edition",
 "content": "The Enchanter's Altar is used for imbuing items with magical properties through arcane rituals. You'll need an Arcane Focus and proficiency in Crafting (Enchanting) to utilize this station.\n\nExamples:\n- Enchant a flaming weapon\n- Craft a staff of power\n- Create enchanted jewelry",
@@ -872,7 +872,7 @@
 ]
 },
 {
-"section": "Crafting Stations",
+"section": "Crafting",
 "title": "Potential Crafting Stations",
 "author": "System AI. 1st Edition",
 "content": "There are more specialized crafting stations that can be discovered and utilized within the dungeon, each with their unique requirements and benefits.\n\n- Jeweler's Bench: For gemcutting and jewelcrafting.\n- Artisan's Loft: For crafting armor, clothing, and other wearable items.\n- Carpenter's Workshop: For woodworking, furniture, and structural enhancements.",
