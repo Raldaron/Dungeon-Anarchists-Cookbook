@@ -14,12 +14,23 @@ body {
     width: 250px;
     height: 100vh;
     overflow-x: hidden;
+    overflow-y: scroll; /* Allow vertical scrolling */
     transition: 0.5s;
     padding-top: 20px;
     display: none; /* Hide initially */
     flex-direction: column;
     background-color: black;
     border-right: 1px solid #00FF00;
+}
+
+/* Hide scrollbar for Webkit-based browsers (Chrome, Safari) */
+#sidenav::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for Firefox */
+#sidenav {
+    scrollbar-width: none;
 }
 
 #sidenav a {
