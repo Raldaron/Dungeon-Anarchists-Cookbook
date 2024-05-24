@@ -93,28 +93,27 @@ button:hover {
     display: none; /* Hide sections by default */
 }
 
+.note-icon {
+    cursor: pointer;
+    display: inline;
+}
+
 /* Ensure responsive design */
 @media (max-width: 600px) {
     #container {
-        flex-direction: column; /* Stack vertically for small screens */
+        flex-direction: row; /* Keep side navigation on the side for small screens */
     }
 
     #sidenav {
-        width: 100%;
-        height: auto;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        border-right: none;
-        border-bottom: 1px solid #00FF00;
+        width: 200px;
+        height: 100vh;
+        flex-direction: column;
+        border-right: 1px solid #00FF00;
+        border-bottom: none;
     }
 
     #content {
         margin-left: 0;
+        padding-left: 20px; /* Add some padding to content for better readability */
     }
-}
-
-.note-icon {
-    cursor: pointer;
-    display: inline;
 }
