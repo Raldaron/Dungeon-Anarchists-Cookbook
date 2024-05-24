@@ -1,0 +1,120 @@
+body {
+    background-color: black;
+    color: #00FF00; /* Brighter green */
+    font-family: "Courier New", Courier, monospace;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    flex-direction: row; /* Display side navigation and content side by side */
+}
+
+#sidenav {
+    width: 250px;
+    height: 100vh;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 20px;
+    display: none; /* Hide initially */
+    flex-direction: column;
+    background-color: black;
+    border-right: 1px solid #00FF00;
+}
+
+#sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #00FF00; /* Brighter green */
+    display: block;
+    transition: 0.3s;
+}
+
+#sidenav a:hover {
+    color: white;
+}
+
+#content {
+    padding: 16px;
+    width: 100%;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-shadow: 0 0 10px rgba(0, 255, 0, 1), 0 0 20px rgba(0, 255, 0, 1);
+    margin: 0;
+}
+
+#buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #00FF00; /* Brighter green */
+    color: black;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+.entry-section {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #00FF00;
+}
+
+.entry-section h2 {
+    color: #00FF00;
+    font-size: 20px;
+}
+
+.entry-section h3 {
+    color: white; /* Author signatures */
+    font-size: 16px;
+}
+
+.entry-section p {
+    color: #00FF00;
+    font-size: 16px;
+}
+
+.section {
+    margin-top: 20px;
+    display: none; /* Hide sections by default */
+}
+
+/* Ensure responsive design */
+@media (max-width: 600px) {
+    #container {
+        flex-direction: column; /* Stack vertically for small screens */
+    }
+
+    #sidenav {
+        width: 100%;
+        height: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border-right: none;
+        border-bottom: 1px solid #00FF00;
+    }
+
+    #content {
+        margin-left: 0;
+    }
+}
+
+.note-icon {
+    cursor: pointer;
+    display: inline;
+}
