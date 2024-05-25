@@ -124,7 +124,7 @@ This is important. While this book’s contents may be invisible, your actions a
                         entryElement.appendChild(authorElement);
 
                         const contentElement = document.createElement("p");
-                        contentElement.textContent = entry.content;
+                        contentElement.innerHTML = entry.content.replace(/\n/g, '<br>');
                         contentElement.style.display = "none";
                         entryElement.appendChild(contentElement);
 
