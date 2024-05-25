@@ -7,6 +7,13 @@
         "notes": []
     },
     {
+    "section": "Traps",
+    "title": "Alarm Module",
+    "author": "Entry added by System AI",
+    "content": "**Alarm Module**\n\nAn Alarm Module looks like a d6-sized cube. When detonated by a red-tagged mob, it plays a randomly selected song from the 30,000+ songs to ever feature on the US Billboard Hot 100 on an endless loop, at deafeningly loud volume. The song can be programmed and/or the module can be added to existing traps at a Sapper's Table.\n\nOnce activated, the only way to silence an alarm module is for a crawler to put it in their inventory. It technically continues to play, and will still be playing if the crawler removes it from their inventory.\n\n**AI Description**\n\nTwo items for the price of one! A favorite of the paranoid and the rich, you can use this module to either add an alarm element to a trap you’re building, or it can be used as a ready-to-go trap for those who can’t be assed to sit down and make their own. When triggered, it will play a Very Loud song. And by Very Loud, I mean Norwegian Black Metal loud. You may program the song at a Sapper’s Table. If you do not or are unable to pick an alarm tone, a random, culturally-important song from the past US Billboard Hot 100 will be chosen.\n\nYou receive the following additional notices due to skills and spells:\n\n- \"You have the ability to imbue Fear upon this module, but your current level of Trap Engineer (Level 1) only allows this action to be done at a Sapper’s table.\"\n\n- \"If untriggered, your Backfire Skill allows you to remove this trap after it has been set with a 100% success rate.\"",
+    "notes": []
+},
+    {
         "section": "Deities",
         "title": "Deities",
         "author": "Note added by Crawler Coolie, 19th Edition",
