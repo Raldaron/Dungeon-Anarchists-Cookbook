@@ -18,7 +18,8 @@ In your messaging menu, you will find a scratchpad. If you’ve yet to discover 
 While the true contents of this guide are invisible to the showrunners and to the viewers, it is not invisible to the current System AI. There is nothing about owning this book, or the information hidden within that is against the rules. However, if the organization running this season begins to suspect that this book is more than it appears, or if you tell anyone about the existence of this book, the information within will erase, and you will forever lose access to the hidden text.
 This is important. While this book’s contents may be invisible, your actions are not. You must become an actor. Every recipe, every secret, if utilized, must be presented to the outside world as if you are discovering this all on your own. How you do that is up to you. Do not spend too much time staring at these pages.`;
 
-"I can only promise two things. Eventual death. And eventual justice" - Crawler P.ort.HU.s.
+I can only promise two things. Eventual death. And eventual justice 
+    - Crawler P.ort.HU.s.
     
     let cursorPosition = 0;
     let typeSpeed = 5; // typing speed in milliseconds
